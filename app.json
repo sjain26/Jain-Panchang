@@ -24,7 +24,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "app.rork.tirthankar_vardhaman_jain_panchang",
-      "versionCode": 2,
+      "versionCode": 3,
       "permissions": [
         "INTERNET"
       ]
